@@ -1,4 +1,7 @@
-Hi i'm @Shadowmaster346 i Kotlin - developer(REST API and more soft) JS - a small code to output data from the api to the site (I don't really know)
-I Streaming on twitch https://twitch.tv/finderfailoff
-My Youtube https://youtube.com/c/Finderfail
-My twitter https://twitter.com/0thecatmx
+# Ilya Finderov ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Shadowmaster346) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowmaster346&count_private=false&langs_count=7&layout=compact)
+<!--
+**
+![Shadowmaster346 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadowmaster346&count_private=true&hide=contribs&show_icons=true&theme=default&layout=compact&bg_color=RED)
+My favorite language is Kotlin. 
+-->
