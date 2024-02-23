@@ -8,6 +8,6 @@
 ## Maybe i try this
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=arduino,c++" alt="arduino, C++">
+    <img src="https://skillicons.dev/icons?i=arduino,cpp" alt="arduino, C++">
   </a>
 </p>
