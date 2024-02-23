@@ -2,6 +2,12 @@
 ## My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,kotlin,linux" alt="JavaScript, Node.js, Express JS, Kotlin, Linux">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,c,linux" alt="JavaScript, Node.js, Express JS, C, Linux">
+  </a>
+</p>
+## Maybe i try this
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=arduino,c++" alt="arduino, C++">
   </a>
 </p>
