@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Ilya Finderov 👋</h1>
-<h3 align="center">I'm backend JS developer && Swift CLI software developer</h3>
+<h3 align="center">I'm backend && CLI software JS developer</h3>
 
 ## Skills
 
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=js,nodejs,swift,github,linux,bash,html">
+        <img src="https://skillicons.dev/icons?i=js,nodejs,github,linux,apple,bash,html">
     </a>
 </p>
 
