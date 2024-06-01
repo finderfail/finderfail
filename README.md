@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=js,nodejs,github,linux,apple,bash,html">
+        <img src="https://skillicons.dev/icons?i=js,expressjs,nodejs,github,apple,bash,html">
     </a>
 </p>
 
