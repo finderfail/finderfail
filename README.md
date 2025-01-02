@@ -20,8 +20,8 @@
 
 ## Projects
 <p align="center">
-    <a href="https://github.com/finderfail/universal-launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=finderfail&theme=onedark&hide_border=true&repo=universal-launcher"></a>
-    <a href="https://github.com/finderfail/ARDUINO-SHELL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=finderfail&theme=onedark&hide_border=true&repo=ARDUINO-SHELL"></a>
+    <a href="https://github.com/finderfail/LDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=finderfail&theme=onedark&hide_border=true&repo=LDK"></a>
+    <a href="https://github.com/finderfail/LexiaEngine2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=finderfail&theme=onedark&hide_border=true&repo=LexiaEngine2"></a>
     
 </p>
 
