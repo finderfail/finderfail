@@ -5,14 +5,14 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=js,expressjs,nodejs,github,apple,bash,cpp,java">
+        <img src="https://skillicons.dev/icons?i=js,expressjs,nodejs,github,apple,bash,cpp,ts">
     </a>
 </p>
 
 ## Projects
 <p align="center">
     <a href="https://github.com/finderfail/LDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=finderfail&theme=onedark&hide_border=true&repo=LDK"></a>
-    <a href="https://github.com/finderfail/LexiaEngine2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=finderfail&theme=onedark&hide_border=true&repo=LexiaEngine2"></a>
+    <a href="https://github.com/finderfail/LexiaEngine2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=finderfail&theme=onedark&hide_border=true&repo=AbstractScript"></a>
     
 </p>
 
