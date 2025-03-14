@@ -12,7 +12,7 @@
 ## Projects
 <p align="center">
     <a href="https://github.com/finderfail/LDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=finderfail&theme=onedark&hide_border=true&repo=LDK"></a>
-    <a href="https://github.com/finderfail/LexiaEngine2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=finderfail&theme=onedark&hide_border=true&repo=AbstractScript"></a>
+    <a href="https://github.com/finderfail/AbstractScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=finderfail&theme=onedark&hide_border=true&repo=AbstractScript"></a>
     
 </p>
 
